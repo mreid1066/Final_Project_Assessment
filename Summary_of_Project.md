@@ -1,0 +1,3 @@
+# Summary of Project
+
+In our project, we addressed the importortant ecological topic of salmon populations in the Pacific Northwest. Specifically, we looked at streams and rivers that were home to populations of Chinook Salmon. We ran a linear machine learning model on a specific population to determine if we could predict future populations of wild salmon. We then applied this model to an endangered poplation. While our model was not perfect at performing prediction, it could serve as a good baseline with other metrics to determine the amount of hatchery salmon that would need to be released in subsequent years.
